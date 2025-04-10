@@ -1,3 +1,9 @@
 module.exports = {
+  A_YEAR: 365 * 86400 * 1000,
+  A_MONTH: 30 * 86400 * 1000,
   A_WEEK: 7 * 86400 * 1000,
+  A_DAY: 86400 * 1000,
+  A_HOUR: 3600 * 1000,
+  A_MINUTE: 60 * 1000,
+  A_SECOND: 1000,
 };
